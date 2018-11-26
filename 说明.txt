@@ -1,0 +1,5 @@
+1、导入db目录中的aspku.sql数据库文件。
+
+2、修改 Application\Common\Conf\config.php 中的数据库配置信息。
+
+3、 后台登陆，请先登陆前台。用户名：admin@aspku.com  密码请自行md5下！
